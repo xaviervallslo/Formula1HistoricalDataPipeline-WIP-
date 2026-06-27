@@ -18,7 +18,7 @@ Este proyecto realiza web scraping de los resultados oficiales de Fórmula 1 (ca
 
 📂 Estructura del repositorio
 
-Archivo F1.py Script principal en Python. Hace el scraping, limpieza y exportación de datos a Excel.F1.ipynbNotebook de Jupyter con el mismo proceso, pensado para exploración y desarrollo paso a paso.F1.batScript de Windows para ejecutar F1.py con un doble clic (automatización).F1.xlsxArchivo de salida con los datos ya procesados, organizado en 3 hojas: Racers, Drivers y Teams.Formula1.pbixDashboard de Power BI construido a partir de F1.xlsx.
+Archivo F1.py Script principal en Python. Hace el scraping, limpieza y exportación de datos a F1.ipynb Notebook de Jupyter con el mismo proceso, pensado para exploración y desarrollo paso a paso.F1.batScript de Windows para ejecutar F1.py con un doble clic F1.bat Archivo de salida con los datos ya procesados, organizado en 3 hojas: Racers, Drivers y Formula1.pbix Dashboard de Power BI construido a partir de F1.xlsx.
 
 ⚙️ ¿Qué hace el script?
 
