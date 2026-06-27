@@ -8,7 +8,11 @@ Este proyecto realiza web scraping de los resultados oficiales de Fórmula 1 (ca
 
 🚧 Estado del proyecto
 
-ComponenteEstadoScraping de carreras, pilotos y equipos (F1.py / F1.ipynb)✅ FinalizadoLimpieza y normalización de datos✅ FinalizadoExportación a Excel (F1.xlsx)✅ FinalizadoAutomatización (F1.bat)✅ FinalizadoDashboard de Power BI (Formula1.pbix)🚧 WIP (Work in Progress)
+✅ComponenteEstadoScraping de carreras, pilotos y equipos (F1.py / F1.ipynb)
+✅ FinalizadoLimpieza y normalización de datos
+✅ FinalizadoExportación a Excel (F1.xlsx)
+✅ FinalizadoAutomatización (F1.bat)
+✅ FinalizadoDashboard de Power BI (Formula1.pbix)🚧 WIP (Work in Progress)
 
 
 El dashboard de Power BI todavía está en construcción: las consultas e importación del dataset ya están conectadas, pero faltan terminar visualizaciones, medidas (DAX) y el diseño final de las páginas del reporte.
