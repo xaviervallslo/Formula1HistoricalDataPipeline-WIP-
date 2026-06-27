@@ -8,7 +8,7 @@ Este proyecto realiza web scraping de los resultados oficiales de Fórmula 1 (ca
 
 🚧 Estado del proyecto
 
-✅ComponenteEstadoScraping de carreras, pilotos y equipos (F1.py / F1.ipynb)
+✅ ComponenteEstadoScraping de carreras, pilotos y equipos (F1.py / F1.ipynb)
 ✅ FinalizadoLimpieza y normalización de datos
 ✅ FinalizadoExportación a Excel (F1.xlsx)
 ✅ FinalizadoAutomatización (F1.bat)
