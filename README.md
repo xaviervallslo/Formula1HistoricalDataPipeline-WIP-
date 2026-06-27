@@ -81,6 +81,6 @@ Las rutas de archivo en F1.py y F1.bat están configuradas para un entorno local
 
 
 
-📄 Licencia
+## 📄 Licencia
 
 Este proyecto se distribuye con fines educativos y de análisis de datos. Los datos provienen de la web oficial de Fórmula 1 y son propiedad de sus respectivos titulares.
