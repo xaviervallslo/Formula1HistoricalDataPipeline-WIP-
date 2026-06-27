@@ -1,4 +1,4 @@
-# 🏎️ Formula 1 Historical Data Pipeline & Power BI Dashboard (WIP)
+# 🏎️ Formula 1 Historical Data Pipeline & Power BI Dashboard -WIP-
 
 Proyecto de extracción, limpieza y análisis de datos históricos de la Fórmula 1 (1950 - actualidad), obtenidos directamente de formula1.com, con un dashboard interactivo construido en Power BI.
 
