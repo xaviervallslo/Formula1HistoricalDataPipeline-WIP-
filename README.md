@@ -66,7 +66,7 @@ Esto generará/actualizará el archivo F1.xlsx en el mismo directorio.
 
 
 
-## ⚠️ Nota: el script depende de la estructura HTML de formula1.com en el momento de la ejecución. Si la web cambia su estructura, el scraping (pd.read_html) puede dejar de funcionar y requerirá ajustes.
+## ⚠️ Nota: el script depende de la estructura HTML de formula1.com en el momento de la ejecución. Si la web cambia su estructura, el scraping puede dejar de funcionar y requerirá ajustes.
 
 
 
