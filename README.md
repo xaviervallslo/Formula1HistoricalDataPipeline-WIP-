@@ -4,7 +4,7 @@ Proyecto de extracción, limpieza y análisis de datos históricos de la Fórmul
 
 ## 📋 Descripción
 
-Este proyecto realiza web scraping de los resultados oficiales de Fórmula 1 (carreras, pilotos y equipos) desde la web oficial, limpia y normaliza los datos con pandas, los exporta a un archivo Excel (F1.xlsx) con varias hojas, y finalmente los consume desde un dashboard de Power BI para su visualización y análisis.
+Este proyecto realiza web scraping de los resultados oficiales de Fórmula 1 (carreras, pilotos y equipos) desde la web oficial, limpia y normaliza los datos con pandas, los exporta a un archivo Excel con varias hojas, y finalmente los consume desde un dashboard de Power BI para su visualización y análisis.
 
 ## 🚧 Estado del proyecto
 
