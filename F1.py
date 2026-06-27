@@ -192,7 +192,7 @@ print("Excel generado con éxito: F1.xlsx")
 
 # %%
 #Capturar archivo de datos
-path = r'C:\Users\xxaby\Desktop\master\Formula1'
+path = r'C:\turutadecarpetas\'
 filef1 = 'F1.xlsx'
 
 #Path
