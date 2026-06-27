@@ -1,82 +1,53 @@
-# 🏎️ Formula 1 Historical Data Pipeline & Dashboard (WIP)
+# 🏎️ Formula 1 Historical Data Pipeline & Power BI Dashboard (WIP)
 
-> 🚧 **Work In Progress**
->
-> Este proyecto aún se encuentra en desarrollo y seguirá incorporando nuevas funcionalidades y visualizaciones.
+> 🚧 El pipeline de datos está finalizado. Actualmente se está desarrollando el dashboard en Power BI.
 
 ## 📖 Descripción
 
-Este proyecto automatiza la recopilación y procesamiento de datos históricos de Fórmula 1 utilizando Python.
+Proyecto de análisis de datos de Fórmula 1 que automatiza la recopilación, limpieza y transformación de resultados históricos mediante Python.
 
-El objetivo es construir un pipeline de datos que permita obtener información actualizada de:
+El proyecto genera un dataset estructurado que posteriormente es utilizado para construir un dashboard interactivo en Power BI.
 
-- Grandes Premios
-- Pilotos
-- Equipos
-
-Posteriormente, los datos son transformados y utilizados como fuente para un dashboard desarrollado en Power BI.
-
----
-
-## ⚙️ Tecnologías
+## Tecnologías
 
 - Python
 - Pandas
 - NumPy
 - Requests
 - Matplotlib
-- Power BI
 - Excel
+- Power BI
 
----
+## Funcionalidades
 
-## 📂 Estructura del proyecto
+- ✅ Extracción automática de datos históricos desde Formula1.com.
+- ✅ Limpieza y transformación de datos.
+- ✅ Normalización de nombres de Grandes Premios y pilotos.
+- ✅ Generación de un dataset en Excel.
+- ✅ Preparación de los datos para Power BI.
+- 🚧 Desarrollo del dashboard interactivo en Power BI.
+
+## Estructura
 
 ```
 .
-├── F1.py              # Script principal
-├── F1.ipynb           # Notebook de desarrollo
-├── F1.xlsx            # Dataset generado
-├── Formula1.pbix      # Dashboard Power BI
-├── F1.bat             # Ejecución automática
+├── F1.py
+├── F1.ipynb
+├── F1.xlsx
+├── Formula1.pbix
+├── F1.bat
 └── README.md
 ```
 
----
+## Próximas mejoras
 
-## 🚀 Funcionalidades actuales
+- Finalizar el dashboard en Power BI.
+- Incorporar nuevas métricas y KPIs.
+- Añadir comparativas entre pilotos, equipos y temporadas.
+- Mejorar la automatización del proceso ETL.
 
-- Extracción automática de datos históricos desde Formula1.com.
-- Limpieza de nombres de Grandes Premios.
-- Limpieza y normalización de pilotos.
-- Generación de tablas de:
-  - Carreras
-  - Pilotos
-  - Equipos
-- Exportación a Excel.
-- Dashboard en Power BI.
+## Estado
 
----
+**Proyecto casi finalizado.**
 
-## 🔄 Próximas mejoras
-
-- [ ] Automatizar completamente el proceso ETL.
-- [ ] Añadir estadísticas por piloto.
-- [ ] Añadir estadísticas por equipo.
-- [ ] Comparativas entre temporadas.
-- [ ] Incorporar más métricas de rendimiento.
-- [ ] Optimizar el código.
-
----
-
-## 📊 Objetivo
-
-Crear un sistema automatizado para analizar la historia de la Fórmula 1 mediante procesos ETL y visualización de datos.
-
----
-
-## ⚠️ Estado
-
-Proyecto en desarrollo (**WIP**).
-
-Las funcionalidades pueden cambiar y el código seguirá mejorando.
+El proceso ETL está completamente implementado y funcional. El único componente pendiente es la finalización del dashboard de Power BI.
