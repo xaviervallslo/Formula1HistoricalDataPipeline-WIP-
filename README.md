@@ -38,13 +38,13 @@ Análisis exploratorio: combina (merge) los datos de carreras y pilotos para rel
 
 🛠️ Tecnologías utilizadas
 
--pandas
--Power BI
--Python 3.12
--manipulación y limpieza de datos
--requests — peticiones HTTP para el scraping
--numpy / matplotlib — soporte numérico y gráfico
--Automatización para Windows .bat
+- pandas
+- Power BI
+- Python 3.12
+- manipulación y limpieza de datos
+- requests - peticiones HTTP para el scraping
+- numpy / matplotlib - soporte numérico y gráfico
+- Automatización para Windows .bat
 
 
 🚀 Cómo ejecutarlo
