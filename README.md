@@ -51,13 +51,6 @@ Columnas principales RacersGrand Prix, Date, Winner, WinnerCode, Team, Laps, Tim
 
 
 
-## 📌 Notas
-
-Los datos cubren temporadas desde 1950 hasta la temporada actual (se actualiza dinámicamente según la fecha del sistema).
-Las rutas de archivo en F1.py y F1.bat están configuradas para un entorno local específico (C:\Users\admin\Desktop\master\Formula1); deberás ajustarlas a tu propia ruta si clonas el repositorio.
-
-
-
 ## 📄 Licencia
 
 Este proyecto se distribuye con fines educativos y de análisis de datos. Los datos provienen de la web oficial de Fórmula 1 y son propiedad de sus respectivos titulares.
