@@ -47,7 +47,7 @@ Esto generará/actualizará el archivo F1.xlsx en el mismo directorio.
 
 ## 📊 Datos disponibles
 
-Columnas principales RacersGrand Prix, Date, Winner, WinnerCode, Team, Laps, Time, YearDriversPos., Driver, DriverCode, Nationality, Team, Pts., YearTeamsPos., Team, Pts., Year
+Columnas principales RacersGrand Prix, Date, Winner, WinnerCode, Team, Laps, Time, YearDriversPos, Driver, DriverCode, Nationality, Team, Pts, YearTeamsPos., Team, Year
 
 
 
