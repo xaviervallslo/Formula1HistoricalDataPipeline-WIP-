@@ -19,7 +19,7 @@ El dashboard de Power BI todavía está en construcción: las consultas e import
 
 ## 📂 Estructura del repositorio
 
-Archivo F1.py Script principal en Python. Hace el scraping, limpieza y exportación de datos a F1.ipynb Notebook de Jupyter con el mismo proceso, pensado para exploración y desarrollo paso a paso.F1.batScript de Windows para ejecutar F1.py con un doble clic F1.bat Archivo de salida con los datos ya procesados, organizado en 3 hojas: Racers, Drivers y Formula1.pbix Dashboard de Power BI construido a partir de F1.xlsx.
+Archivo F1.py Script principal en Python. Hace el scraping, limpieza y exportación de datos a F1.ipynb Notebook de Jupyter con el mismo proceso, pensado para exploración y desarrollo paso a paso. Archivo de salida con los datos ya procesados, organizado en 3 hojas: Racers, Drivers y Formula1.pbix Dashboard de Power BI construido a partir de F1.xlsx.
 
 ## 🛠️ Tecnologías utilizadas
 
