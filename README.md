@@ -38,15 +38,13 @@ Ejecutar el archivo F1.bat
 Este generará/actualizará el archivo F1.xlsx en el mismo directorio.
 
 
-
-## ⚠️ Nota: el script depende de la estructura HTML de formula1.com en el momento de la ejecución. Si la web cambia su estructura, el scraping puede dejar de funcionar y requerirá ajustes.
-
-
-
 ## 📊 Datos disponibles
 
 Columnas principales RacersGrand Prix, Date, Winner, WinnerCode, Team, Laps, Time, YearDriversPos, Driver, DriverCode, Nationality, Team, Pts, YearTeamsPos., Team, Year
 
+
+## ⚠️ Nota
+El script depende de la estructura HTML de formula1.com en el momento de la ejecución. Si la web cambia su estructura, el scraping puede dejar de funcionar y requerirá ajustes.
 
 
 ## 📄 Licencia
