@@ -33,11 +33,9 @@ Archivo F1.py Script principal en Python. Hace el scraping, limpieza y exportaci
 
 ## 🚀 Cómo ejecutarlo
 
-Ejecutar el archivo 
+Ejecutar el archivo F1.bat
 
-F1.bat
-
-Esto generará/actualizará el archivo F1.xlsx en el mismo directorio.
+Este generará/actualizará el archivo F1.xlsx en el mismo directorio.
 
 
 
